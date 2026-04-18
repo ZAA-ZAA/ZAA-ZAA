@@ -1,4 +1,4 @@
-# Hi, I'm Zoen 👋
+# Hi, I'm Zoen Aldueza👋
 
 🎓 Fresh Graduate | 💻 Web Developer
 
