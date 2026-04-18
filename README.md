@@ -37,7 +37,7 @@ I’m continuously improving by:
 <!-- Add your links here -->
 - LinkedIn: www.linkedin.com/in/zoen-aldueza
 - Portfolio: https://my-portfolio-theta-lovat-95.vercel.app/
-- Email: zoenaldueza@gmail.com
+- Email: alduezazoen77@gmail.com
 
 ---
 
